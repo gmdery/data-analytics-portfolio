@@ -1,27 +1,42 @@
 # 🚗 Crash Analysis Dashboard – Power BI Project
 
-This interactive dashboard analyzes motor vehicle crashes across NYC, giving key insights into injuries, fatalities, collision types, and contributing factors.
+This project presents an interactive dashboard analyzing motor vehicle crashes in New York City. Built with Power BI, it highlights key metrics related to road safety, offering insights into the number of injuries and fatalities, types of collisions, and significant contributing factors.
 
-## 📊 Highlights
-- **178K+** persons injured  
-- **717** deaths  
-- Dynamic filters by **year** and **borough**  
-- Top 5 **collision types** and **contributing factors**  
-- **Monthly trends** for injuries and fatalities  
-- Breakdown by **ZIP codes**
+## 📊 Key Features
 
-## 🛠 Tools Used
-- Power BI  
-- Excel
+- **178K+** Persons Injured  
+- **717** Persons Killed  
+- Monthly trends of injuries and fatalities  
+- Filter by **Year** and **Borough**  
+- Top 5 **Collision Vehicle Types**  
+- Top 5 **Contributing Factors**  
+- ZIP code breakdown of crash data  
 
-## 📸 Preview
+## 🔧 Tools & Technologies
 
-![Dashboard Screenshot](./Dashboard-Screenshot.png)
+- **Power BI** for data modeling and dashboard creation  
+- **Excel** for data preprocessing and formatting  
 
-## 📂 Files
-- `Crash-Analysis-Dashboard.pbix` – Power BI file  
-- `Dashboard-Screenshot.png` – Dashboard preview
+## 📂 Repository Contents
+
+- `Crash-Analysis-Dashboard.pbix` – Power BI report file  
+- `Dashboard-Screenshot.png` – Dashboard snapshot  
+- `README.md` – Project overview and documentation  
 
 ---
 
-#DataAnalytics #PowerBI #RoadSafety #CrashDashboard
+## 📌 Insights
+
+This dashboard empowers stakeholders to explore traffic accident patterns and understand the human impact of road incidents. With its borough-level filters and visualizations, city planners and safety analysts can identify risk-prone zones and prioritize interventions.
+
+---
+
+## 🔗 Connect with Me
+
+Let’s connect on [LinkedIn](https://linkedin.com/in/gmdery)  
+📧 Email: gmdery19@gmail.com  
+
+---
+
+#PowerBI #DataAnalytics #DashboardDesign #CrashAnalysis #NYC #RoadSafety
+
