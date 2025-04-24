@@ -1,91 +1,83 @@
-# 🏡 Connecticut Real Estate Dashboard (2001–2022)
+# 🏡 Connecticut Real Estate Market Dashboard (2001–2022)
 
-This Power BI project analyzes over 500,000 real estate transactions across Connecticut from 2001 to 2022. The dashboard explores how property sales, average values, and town-level dynamics have shifted over two decades, uncovering trends and insights valuable to investors, policymakers, analysts, and developers.
-
----
-
-## 📊 Project Overview
-
-- **Objective:** Transform raw property transaction data into actionable insights by visualizing trends in sales volume, value, location, and property types.
-- **Tools Used:** Power BI, DAX, Excel
-- **Data Size:** ~515,000 rows
-- **Time Frame:** 22 years (2001–2022)
+This Power BI dashboard presents a 22-year analysis of property transactions across the state of Connecticut. The goal was to transform over half a million raw transaction records into a clear, interactive story of market trends, town-level performance, and property type dynamics. This project showcases both technical and analytical skills—ideal for investors, analysts, developers, and recruiters looking for actionable insights.
 
 ---
 
-## 🛠️ Skills Demonstrated
+## 📌 Project Summary
 
-- Data modeling & transformation
-- DAX calculations (
-- Advanced filtering & conditional visuals
-- Trend and location analysis
-- Insight storytelling through dashboarding
-
----
-
-## 🧠 Key Metrics Tracked
-
-- ✅ Total Sale Amount
-- ✅ Average Sale & Assessed Values
-- ✅ Number of Properties Sold
-- ✅ Distinct Property Addresses
-- ✅ Top Towns by Volume & Value
-- ✅ Most Expensive Transactions
+- **Dataset:** 500,000+ property sales records from 2001 to 2022  
+- **Tools Used:** Power BI, Excel
+- **Objective:** To uncover patterns in real estate transactions and visualize trends across time, property types, and locations  
+- **Deliverable:** A fully interactive, portfolio-ready Power BI dashboard and PowerPoint summary
 
 ---
 
-## 📈 Dashboard Pages
+## ⚙️ Skills Demonstrated
 
-### 1. **Overview**
-A high-level summary showing total transactions, total value, average sale prices, and dominant property types. Includes dynamic KPIs and top towns.
-
-### 2. **Yearly Trends**
-Displays sales volume, assessed values, and average price trends from 2001 to 2022. Tracks market growth, dips, and post-pandemic surges.
-
-### 3. **Property Type Insights**
-Breaks down sale volume and value across property categories. Highlights changes in classification post-2020 and compares average performance of types.
-
-### 4. **Town Analysis**
-Deep dive into town-level data: top towns by sales, volume, and average value. Includes repeated sales analysis and high-value location highlights.
-
-### 5. **Insights Page**
-Summarizes the most important trends and takeaways with bullet points and business interpretations.
+- Advanced data modeling and transformation in Power BI    
+- Interactive dashboards using slicers and cards  
+- Insight storytelling through visuals and layout structuring  
+- Data cleanup and property type grouping for consistency
 
 ---
 
-## 🔍 Key Insights
+## 📊 What the Dashboard Covers
 
-- **Residential properties** dominate in count, but **commercial and apartments** lead in value.
-- **Willington** recorded the highest sale (~$5B), with **Greenwich** and **Stamford** as top high-performing towns.
-- Post-2020, property types were grouped under a general "Residential" label — affecting clarity.
-- **Average sale prices exceeded assessed values**, especially in luxury towns.
-- **Repeated sales** point to active redevelopment or flipping zones.
+### 🏠 Overview Page
+- Key metrics like total sales, average prices, and unique properties
+- Top towns and property types
+- Quick market snapshot across 22 years
+
+### 📆 Yearly Trends Page
+- Sale volume, assessed value, and average pricing across time
+- Market dips and peaks (e.g. 2008 crash, 2020 post-pandemic boom)
+
+### 🏘️ Property Type Insights
+- Breakdown of sale amounts and volume by property type
+- Grouped view of residential vs non-residential properties
+- Shift in classification patterns post-2020
+
+### 🏙️ Town Analysis Page
+- Towns with highest sales volume, average sale value, and most transactions
+- Repeated sales detection (flipping or redevelopment hotspots)
+- Most expensive property locations revealed
+
+### 💡 Insights Summary Page
+- Clean written summary of the most important findings
+- Designed for quick consumption by stakeholders or hiring panels
 
 ---
 
-## 🖼️ Dashboard Preview
+## 📌 Key Takeaways
 
-> *(Add screenshots or GIF here after exporting from Power BI)*  
-> Include a clean shot of your Overview, Trends, and Town Analysis pages.
-
----
-
-## 📥 Files Included
-
-- `Real_Estate_Dashboard.pbix` — Power BI dashboard file  
-- `Real_Estate_Dashboard_Presentation.pptx` — Portfolio-ready slide deck  
-- `README.md` — This file
+- **Residential units dominate in volume**, but **commercial and apartment sales lead in value**
+- **Greenwich, Stamford, and Westport** consistently rank as high-performing towns
+- **Willington** recorded the most expensive transaction (~$5B)
+- A shift in classification to broad “Residential” began in **2020**, affecting property type clarity
+- Many towns show **sale prices far above assessed values**, especially in high-demand areas
+- Repeated sales patterns reflect **potential flipping or investment activity**
 
 ---
 
-## 📬 Contact
+## 📂 Files Included
 
+- `Real_Estate_Dashboard.pbix` – The Power BI file  
+- `Real_Estate_Dashboard_screenshot.png` – A preview of the dashboard  
+- `README.md` – Project documentation 
+
+---
+
+## 🙋🏽 About Me
+
+**George Maxwell Dery**  
 📧 gmdery19@gmail.com 
 🔗 [LinkedIn](https://linkedin.com/in/gmdery)
 
+As a data analyst and economics graduate, I’m passionate about using data to uncover insights and tell meaningful stories. This project reflects my love for clean design, structured logic, and real-world impact.
+
 ---
 
-## 🚀 Let’s Talk Data
+## 💬 Let’s Connect
 
-If you're interested in collaborating or want to discuss real estate trends, data storytelling, or dashboard design — feel free to reach out!
-
+Whether you're an employer, data enthusiast, or fellow creative, feel free to reach out to discuss collaboration or feedback. I'm always open to learning, growing, and sharing ideas through data.
